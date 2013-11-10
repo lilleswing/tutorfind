@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  schoolclass_id: 
+  tutor_id: 
+  pitch: MyString
+
+two:
+  schoolclass_id: 
+  tutor_id: 
+  pitch: MyString
